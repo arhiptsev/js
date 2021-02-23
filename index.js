@@ -1,4 +1,3 @@
-import { Injectable, getDependency } from "./injectable";
 import 'zone.js';
 class service1 {
     constructor() {
